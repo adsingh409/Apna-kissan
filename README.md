@@ -1,7 +1,7 @@
 
-# Sharad Commerce
+#  Aditya Raj
 
-Hi! My name is **Sharad Kumar**, I have created this tutorial to teach MERN Stack for free on YouTube.
+Hi! My name is **Aditya Raj**, I have created this tutorial to teach MERN Stack for free on YouTube.
 
 # Prerequisite
 
@@ -34,7 +34,4 @@ _fill each filed with your info respectively_
 
 ## Author
 
-**Instagram** Click [Here](https://www.instagram.com/sharad__seigns/) **@sharad_seigns**
-**LinkedIn** Click [Here](https://www.linkedin.com/in/sharad-kumar-b2a66225b/) **@Sharad Kumar**
-**Facebook** Click [Here](https://www.facebook.com/sharad.seigns.9/) **@Sharad Seigns**
 
